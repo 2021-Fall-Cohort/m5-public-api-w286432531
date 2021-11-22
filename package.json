@@ -1,0 +1,27 @@
+{
+  "name": "m5-public-api-w286432531",
+  "version": "1.0.0",
+  "description": "- To prepare a small working JavaScript application that you can deploy to GitHub pages and show off to employers\r - To focus on good git practices\r - To focus on clean code\r - To review HTML, CSS, JavaScript functions, and the fetch API\r - To experiment with Postman, a workspace to test out API requests\r ## Requirements\r Have fun with this project! Locate a public API, access its data, and present information to your user through the browser.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2021-Fall-Cohort/m5-public-api-w286432531.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2021-Fall-Cohort/m5-public-api-w286432531/issues"
+  },
+  "homepage": "https://github.com/2021-Fall-Cohort/m5-public-api-w286432531#readme",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-react-app": "^3.1.2"
+  }
+}
